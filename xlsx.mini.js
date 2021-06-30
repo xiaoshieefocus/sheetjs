@@ -6555,7 +6555,7 @@ function write_theme(Themes, opts) {
 	o[o.length] =     '<a:cs typeface=""/>';
 	o[o.length] =     '<a:font script="Jpan" typeface="ＭＳ Ｐゴシック"/>';
 	o[o.length] =     '<a:font script="Hang" typeface="맑은 고딕"/>';
-	o[o.length] =     '<a:font script="Hans" typeface="宋体"/>';
+	o[o.length] =     '<a:font script="Hans" typeface="微软雅黑"/>';
 	o[o.length] =     '<a:font script="Hant" typeface="新細明體"/>';
 	o[o.length] =     '<a:font script="Arab" typeface="Times New Roman"/>';
 	o[o.length] =     '<a:font script="Hebr" typeface="Times New Roman"/>';
@@ -6590,7 +6590,7 @@ function write_theme(Themes, opts) {
 	o[o.length] =     '<a:cs typeface=""/>';
 	o[o.length] =     '<a:font script="Jpan" typeface="ＭＳ Ｐゴシック"/>';
 	o[o.length] =     '<a:font script="Hang" typeface="맑은 고딕"/>';
-	o[o.length] =     '<a:font script="Hans" typeface="宋体"/>';
+	o[o.length] =     '<a:font script="Hans" typeface="微软雅黑"/>';
 	o[o.length] =     '<a:font script="Hant" typeface="新細明體"/>';
 	o[o.length] =     '<a:font script="Arab" typeface="Arial"/>';
 	o[o.length] =     '<a:font script="Hebr" typeface="Arial"/>';
